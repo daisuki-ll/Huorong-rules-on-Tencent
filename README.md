@@ -1,4 +1,4 @@
-# Huorong-rules-on-Tencent
+# Huorong rules on Tencent
 
 防止腾讯系软件扫盘。
 关于QQ扫描桌面，读取浏览器浏览记录等行为，让中国网友毫无隐私可言。

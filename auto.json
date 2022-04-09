@@ -2,6 +2,14 @@
     "ver":"5.0",
     "tag":"hipsuser_auto",
     "data":{
+        "*qq_guild*":[
+            {
+                "res_path":"C:\\Users\\desktop.ini",
+                "montype":1,
+                "action_type":15,
+                "treatment":0
+            }
+        ],
         "*Tencent*":[
             {
                 "res_path":"*\\Tencent\\*",
@@ -538,21 +546,13 @@
                 "treatment":0
             },
             {
-                "res_path":"C:\\Users\\Administrator\\AppData\\Local\\qq_guild-updater\\*",
+                "res_path":"*qq_guild-updater*",
                 "montype":1,
                 "action_type":15,
                 "treatment":0
             },
             {
-                "res_path":"C:\\Users\\Administrator\\AppData\\Roaming\\qq_guild\\*",
-                "montype":1,
-                "action_type":15,
-                "treatment":0
-            }
-        ],
-        "*qq_guild*":[
-            {
-                "res_path":"C:\\Users\\desktop.ini",
+                "res_path":"*qq_guild*",
                 "montype":1,
                 "action_type":15,
                 "treatment":0
@@ -560,13 +560,13 @@
         ],
         "*QQGuild*":[
             {
-                "res_path":"C:\\Users\\Administrator\\Documents\\qq_guild\\*",
+                "res_path":"*qq_guild*",
                 "montype":1,
                 "action_type":15,
                 "treatment":0
             },
             {
-                "res_path":"C:\\Users\\Administrator\\AppData\\LocalLow\\Microsoft\\CryptnetUrlCache\\MetaData\\*",
+                "res_path":"*Microsoft\\CryptnetUrlCache\\MetaData*",
                 "montype":1,
                 "action_type":2,
                 "treatment":0
